@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .sidebar { 
+        position: static;
+        height: auto;
+    }
+
+    .top-navbar { position: static; }
+    .dashboard { padding: 5px;}
+    .search-input { margin: 10px 5px 0 0; padding: 5px;}
+    .icon-nav { margin-top: 15px; text-align: left;}
+}
